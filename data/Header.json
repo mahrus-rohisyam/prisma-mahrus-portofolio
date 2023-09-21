@@ -1,0 +1,9 @@
+{
+  "primary": [
+    { "pathname": "Home", "url": "/" },
+    { "pathname": "About", "url": "/" },
+    { "pathname": "Project", "url": "/" },
+    { "pathname": "Contact", "url": "/" },
+    { "pathname": "Resource", "url": "/" }
+  ]
+}
